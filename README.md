@@ -30,4 +30,5 @@ Your project will be evaluated based on the following criteria:
 * Error handling and user interaction aspects of the system.
 * Robustness and reliability of the system under different scenarios.
 * Optional: Creativity and usability of the GUI interface (if implemented).
-# Note: Ensure that you handle sensitive information (such as email addresses and OTPs) securely and responsibly, and avoid hardcoding any sensitive data or credentials in your code.
+# Note: 
+Ensure that you handle sensitive information (such as email addresses and OTPs) securely and responsibly, and avoid hardcoding any sensitive data or credentials in your code.
