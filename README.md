@@ -17,17 +17,17 @@ You are tasked with developing an OTP (One-Time Password) verification system in
 
 
 # Project Deliverables:
-▫Python script containing the implementation of the OTP verification system.
-▫Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
-▫Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
-▫Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
+* Python script containing the implementation of the OTP verification system.
+* Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
+* Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
+* Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
 
 # Project Evaluation:
 Your project will be evaluated based on the following criteria:
 
-▫Correctness and functionality of the OTP generation, sending, and verification process.
-▫Code quality, including adherence to Python best practices, readability, and documentation.
-▫Error handling and user interaction aspects of the system.
-▫Robustness and reliability of the system under different scenarios.
-▫Optional: Creativity and usability of the GUI interface (if implemented).
+* Correctness and functionality of the OTP generation, sending, and verification process.
+* Code quality, including adherence to Python best practices, readability, and documentation.
+* Error handling and user interaction aspects of the system.
+* Robustness and reliability of the system under different scenarios.
+* Optional: Creativity and usability of the GUI interface (if implemented).
 # Note: Ensure that you handle sensitive information (such as email addresses and OTPs) securely and responsibly, and avoid hardcoding any sensitive data or credentials in your code.
